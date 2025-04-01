@@ -21,3 +21,7 @@ y_pred = classifier.predict(X_test)
 # Evaluate accuracy
 accuracy = accuracy_score(y_test, y_pred)
 print(f'Accuracy: {accuracy * 100:.2f}%')
+56789
+lhjkhg
+hjgghfvdlzhvg
+kfhvkdh
